@@ -32,6 +32,26 @@ A clear expectations and access plan draft for all user and core team member.
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1lGzZZEypeHQ6VM1ksoVQjZuw2TQ7mPaG&sz=w800');" markdown>
 
+### 3D designing
+
+This documentation is about 3D designing
+
+[:octicons-arrow-right-24: Read More](3d_design.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1gp9ZX4tKWp1S6y52m0iXsti-Db8TxJRD&sz=w400');" markdown>
+
+### Laser Cutting
+
+This documentation is about Laser Cutting
+
+[:octicons-arrow-right-24: Read More](laser_cutting.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1rUfLn9itn3k_2mW6g9KvjpDofNqnveY7&sz=w400');" markdown>
+
 ### 🚀 Getting Started Guide
 
 A showcase of all the Markdown features you can use in your documentation.
